@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Freemium Music</string>
+    <string name="title_activity_scroll__download">Scroll_Download</string>
+    <string name="downloads_found">Songs Found..!\n
+        Click on the DOWNLOAD SONGS button to open download page</string>
+    <string name="downloads_not_founds">Sorry No Downloads found Here.\n
+        Select a Song, Album or a Playlist to fetch songs</string>
+    <string name="action_settings">Settings</string>
+    <string name="FailedJson">
+    {
+   "title":"FAILED",
+   "name":"FAILED",
+   "year":"FAILED",
+   "release_date":"FAILED",
+   "primary_artists":"FAILED",
+   "primary_artists_id":"",
+   "albumid":"",
+   "perma_url":"",
+   "image":"FAILED",
+   "songs":[
+      {
+         "id":"FAILED",
+         "type":"",
+         "song":"FAILED",
+         "album":"FAILED",
+         "year":"FAILED",
+         "music":"FAILED",
+         "primary_artists":"FAILED",
+         "featured_artists":"",
+         "featured_artists_id":"",
+         "singers":"FAILED",
+         "starring":"",
+         "image":"FAILED",
+         "duration":"000",
+
+      }]}
+    </string>
+
+
+    <string name="pref_main">nitish.build.com.saavntest1_main_sp</string>
+    <string name="pref_counter">nitish.build.com.saavntest1_counter</string>
+    <string name="pref_counter1">nitish.build.com.saavntest1_counter_one</string>
+    <string name="pref_JsonFromID">nitish.build.com.saavntest1_JsonFromID</string>
+    <string name="pref_search_counter">nitish.build.com.saavntest1_search_counter</string>
+    <string name="pref_inqueue">nitish.build.com.saavntest1_inqueue</string>
+    <string name="pref_update">nitish.build.com.saavntest1_update</string>
+
+    <string name="set_main">nitish.build.com.saavntest1_settings_preferences</string>
+    <string name="set_kbps">nitish.build.com.saavntest1_set_kbps</string>
+    <string name="set_format">nitish.build.com.saavntest1_set_format</string>
+    <string name="set_AlbumArt">nitish.build.com.saavntest1_set_AlbumArt</string>
+    <string name="set_Directory">nitish.build.com.saavntest1_defDirectory</string>
+    <string name="set_subFolders">nitish.build.com.saavntest1_sub_folders</string>
+    <string name="set_audioTagging">nitish.build.com.saavntest1_audio_tagging</string>
+    <string name="set_defFN_code">nitish.build.com.saavntest1_def_FN_code</string>
+    <string name="set_del_aA">nitish.build.com.saavntest1_set_del_aA</string>
+
+    <string name="server_constants">nitish.build.com.saavntest1_server_constants</string>
+    <string name="sc_thope">nitish.build.com.saavntest1_sc_thopu</string>
+    <string name="sc_app_id">nitish.build.com.saavntest1_sc_app_id</string>
+    <string name="sc_banner1">nitish.build.com.saavntest1_sc_banner1</string>
+    <string name="sc_inter1">nitish.build.com.saavntest1_sc_inter1</string>
+    <string name="sc_amount">nitish.build.com.saavntest1_sc_amount</string>
+    <string name="sc_pay_link">nitish.build.com.saavntest1_sc_pay_link</string>
+    <string name="sc_inter2">nitish.build.com.saavntest1_sc_inter2</string>
+    <string name="sc_banner2">nitish.build.com.saavntest1_sc_banner2</string>
+    <string name="sc_banner3">nitish.build.com.saavntest1_sc_banner3</string>
+    <string name="sc_banner4">nitish.build.com.saavntest1_sc_banner4</string>
+    <string name="sc_banner5">nitish.build.com.saavntest1_sc_banner5</string>
+    <string name="sc_banner6">nitish.build.com.saavntest1_sc_banner6</string>
+
+
+    <string name="albumart_settings_page">(This feature is only for Android Oreo and Above) \n
+        When enabled it hides \"albumArt.jpg\" files. So that they wont annoy you by appearing in Galley. \n
+        [Please turn off , if your music player doesn\'t recognize AlbumArt]</string>
+    <string name="delete_albumart_settings">Enabling this will automatically deletes the \"albumArt.jpg\" files after usage. \n
+    [Please turn off , if your music player doesn\'t recognize AlbumArt]</string>
+    <string name="downloads_page">Note : If your Download got stuck up in Middle.\n
+                        Please Force Close the app and try downloading again.\n
+                        Also check weather you have given all Permissions or not.\n
+                        I will fix this issue in next release.</string>
+    <string name="under_construction">Streaming is disabled in this build due to few unknown bugs. \n
+        It will be enabled in the next update, which will be released soon.</string>
+    <string name="searchPage"><b><u>Instructions:</u></b>\n
+        Use the above <b>Search bar</b> to Search songs and the results appear here.\n
+        Use <b>Browse tab</b> to browse songs directly from Saavn web UI.\n
+        All downloaded songs will be saved to  <b>FREEMIUM_DOWNLOADS</b> folder.\n
+        Check out   <b>Downloads</b>   and   <b>More page</b>   for further info.</string>
+    <string name="setting_subfolders">Enabling this will store the downloaded music files in separate folders,
+    named as per their Album name</string>
+    <string name="settings_audio_tagging">[Only for Android Oreo and Above]Try disabling this if you encounter random force closes in the app while downloading.</string>
+    <string name="settings_lyrics_download">Enabling this will save .lrc files when ever possible to reduce loading time for
+        future playbacks.</string>
+    <string name="settings_autochaching">[Experimental]This will temporarily store the required audio data locally to reduce
+        buffer time during the next playback. However, this might occupy some of your internal storage space. </string>
+
+    <string name="more_page">Note : This is a initial release of the app. So its common to have Bugs and Lags in the app.
+        For further development of the app please report the bugs you find.</string>
+    <string name="get_intouch">Want to get in touch with me ? (Click here)</string>
+    <string name="more_telegram">Click here to join our Telegram Group</string>
+    <string name="star_github">Give me a Star(⭐) on GitHub</string>
+    <string name="more_faqs">Read FAQ\'s here...</string>
+    <string name="more_disclaimer">Read Disclaimer</string>
+    <string name="more_page_ClickText">Click here to Report a Bug or Suggest a feature.(use Gmail)</string>
+    <string name="more_page_Disclaimer">Downloading Copyrighted music might be illegal in Some countries.\n
+    © All Songs,images and Saavn™ belongs to JioSaavn.</string>
+    <string name="madeBy">by <b>Nitish</b></string>
+    <string name="but_me_coffee">I am an undergraduate student who enjoys making these kinds of
+        projects in free time.\n
+        You can encourage me by buying me a coffee which motivates me to work consistently on this project and
+        provide you regular updates with awesome new features.\n
+        <b>I need your support to keep the app going forward.</b>
+    </string>
+    <string name="thank_you">Thank you for showing your love towards the app.\nEnjoy the complete <b>Ad-free experience</b>.</string>
+    <string name="still_ads">Report here if you are still getting ads with in the app.(use G-Mail)</string>
+
+    <string name="browse_coffee">Like my work?\nConsider Buying me a Coffee</string>
+
+    <string name="change_log">test</string>
+
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=nitish.build.com.freemium</string>
+
+
+    <string name="ad_id">ca-app-pub-7700991162542555~7472979964</string>
+    <string name="ad_inter1">ca-app-pub-7700991162542555/5445582423</string>
+    <string name="ad_inter2">ca-app-pub-7700991162542555/3122671411</string>
+    <string name="banner1">ca-app-pub-7700991162542555/3046101050</string>
+    <string name="banner2">ca-app-pub-7700991162542555/5097549322</string>
+    <string name="banner3">ca-app-pub-7700991162542555/6027487617</string>
+    <string name="banner4">ca-app-pub-7700991162542555/6957425901</string>
+    <string name="banner5">ca-app-pub-7700991162542555/9987462668</string>
+    <string name="banner6">ca-app-pub-7700991162542555/2575876509</string>
+
+    <!--<string name="ad_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <!--<string name="ad_inter1">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="ad_inter2">ca-app-pub-3940256099942544/1033173712</string>-->
+    <!--<string name="banner1">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner2">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner3">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner4">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner5">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner6">ca-app-pub-3940256099942544/6300978111</string>-->
+
+
+</resources>
